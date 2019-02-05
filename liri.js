@@ -102,14 +102,6 @@ var musicStuff = function () {
 }
 
 
-//var someStuff = function(){
-
-//create a file named mynewfile1.txt:
-//musicStuff('random.txt', function (err) {
-  //if (err) throw err;
- // console.log('i want it that way!');
-//});
-//}
 
 var pickApi = process.argv[2];
 
